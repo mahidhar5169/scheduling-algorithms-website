@@ -1,2 +1,2 @@
 # scheduling-algorithms-website
-An algorithms website for process scheduling
+An algorithm website for process scheduling
